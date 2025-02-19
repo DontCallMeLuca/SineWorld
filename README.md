@@ -53,9 +53,22 @@ float map(vec3 p) {
 
 This simple change will raise the water level above the terrain.
 
+## Requirements
+- Python3.10 or higher
+- [ModernGL](https://github.com/moderngl/moderngl) & [pygame](https://github.com/pygame/pygame)
+
+```sh
+pip install moderngl pygame
+```
+
 ## Showcase
 
-## Why
+![Screenshot](./screenshots/1.png)
+![Screenshot](./screenshots/2.png)
+![Screenshot](./screenshots/3.png)
+![Screenshot](./screenshots/4.png)
+
+## Why?
 After experimenting with minecraft word generation via noise functions to create
 a world of voxels, I realized every single mathemtical function could become a noise
 function, and could be used to generate entire worlds. So I thought, why not use
