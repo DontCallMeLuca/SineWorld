@@ -1,8 +1,6 @@
 <h1 align="center">✨ Sine World ✨</h1>
 
-<div align="center">
-###### _A world made from the sine function_
-</div>
+<h6 align="center"><em>A world made from the sine function</em></h6>
 
 ## Explaination
 This is a world generated using sine as the noise function.
